@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PreferTM
-- 👀 I’m interested in - Developing cheats for games and mostly pasting !
+- 👀 I’m interested in - Developing cheats for games !
 - 🌱 I’m currently learning - C++ and Python
 - 📫 How to reach me - Discord: PreferTM#4371
 
