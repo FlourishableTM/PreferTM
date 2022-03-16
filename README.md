@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PreferTM
+- 👋 Hi, I’m @FlourishableTM
 - 👀 I’m interested in - Developing cheats for games !
 - 🌱 I’m currently learning - C++ and Python
-- 📫 How to reach me - Discord: PreferTM#4371
+- 📫 How to reach me - Discord: Flourishable#6899
 
 <!---
 PreferTM/PreferTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
